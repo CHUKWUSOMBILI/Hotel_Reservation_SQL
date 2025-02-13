@@ -1,0 +1,501 @@
+Booking ID,Date of Booking,Customer ID,Gender,Age,Origin Country,Hotel Name,Hotel Rating,Booking Price[SGD],Discount
+DDMY00001,1/1/2010,MY00001,Male,42,Malaysia,Hotel Triton,4.3, 243 ,1%
+DDID00002,1/1/2010,ID00001,Female,44,Indonesia,Enchanted Isle,4.2, 312 ,0%
+DDSG00003,1/1/2010,SG00001,Female,31,Singapore,Seacoast Hotel,4.5, 338 ,19%
+DDSG00004,1/1/2010,SG00002,Male,28,Singapore,Night In Paradise,4.2, 254 ,19%
+DDKH00005,1/1/2010,KH00001,Male,44,Cambodia,Tiny Digs Hotel,4.6, 313 ,15%
+DDTH00006,1/1/2010,TH00001,Male,32,Thailand,Seascape,4.5, 161 ,1%
+DDTH00007,1/1/2010,TH00002,Male,49,Thailand,Waldorf Astoria,4.6, 313 ,10%
+DDMY00008,1/1/2010,MY00002,Female,58,Malaysia,The Westgate Hotel,4.1, 121 ,5%
+DDSG00009,1/1/2010,SG00003,Male,57,Singapore,Firefly Motel,4.4, 173 ,20%
+DDSG00010,1/1/2010,SG00004,Female,41,Singapore,Cape Grace,4.7, 309 ,16%
+DDTH00011,1/1/2010,TH00003,Female,28,Thailand,Green Acres,4.2, 98 ,7%
+DDMY00012,1/1/2010,MY00003,Male,40,Malaysia,The Empire Hotel,4.2, 146 ,1%
+DDVN00013,1/1/2010,VN00001,Male,37,Vietnam,Small Town B&B,4.5, 253 ,17%
+DDKH00014,1/1/2010,KH00002,Female,40,Cambodia,Hotel Fusion,4.5, 161 ,17%
+DDKH00015,1/2/2010,KH00003,Male,51,Cambodia,The River Front Resort,4.4, 251 ,20%
+DDVN00016,1/2/2010,VN00002,Female,25,Vietnam,Expedition,4.3, 162 ,6%
+DDSG00017,1/2/2010,SG00005,Male,33,Singapore,Like Home Hotel,4.5, 253 ,20%
+DDPH00018,1/2/2010,PH00001,Female,25,Philippines,Family Ties,4.4, 173 ,21%
+DDMY00019,1/2/2010,MY00004,Female,33,Malaysia,Homewood Suites,4.3, 158 ,9%
+DDSG00020,1/2/2010,SG00006,Female,31,Singapore,Hotel Emblem,4.1, 133 ,24%
+DDSG00021,1/2/2010,SG00007,Female,32,Singapore,Voyage Resort,4.3, 125 ,8%
+DDID00022,1/2/2010,ID00002,Female,36,Indonesia,Villa Florence,3.8, 93 ,9%
+DDSG00023,1/2/2010,SG00008,Female,58,Singapore,Always Available,3.8, 99 ,15%
+DDMY00024,1/2/2010,MY00005,Female,47,Malaysia,The Lodge at Sea Island,4.6, 222 ,20%
+DDMY00025,1/2/2010,MY00006,Male,22,Malaysia,Enchanted Isle,4.3, 155 ,20%
+DDMY00026,1/2/2010,MY00007,Female,58,Malaysia,Malibu Motel,4.6, 313 ,24%
+DDMY00027,1/2/2010,MY00008,Male,30,Malaysia,Millennium Times Square,4.6, 222 ,6%
+DDSG00028,1/2/2010,SG00009,Female,35,Singapore,Meadow Manor,3.8, 99 ,9%
+DDMY00029,1/2/2010,MY00009,Male,52,Malaysia,Ace Hotel,4.6, 222 ,24%
+DDID00030,1/2/2010,ID00003,Male,22,Indonesia,The Worldly Traveler,4.5, 329 ,2%
+DDVN00031,1/2/2010,VN00003,Male,34,Vietnam,Cape Grace,4.4, 223 ,9%
+DDTH00032,1/2/2010,TH00004,Female,26,Thailand,The Mississippi Hotel,4.4, 251 ,17%
+DDVN00033,1/2/2010,VN00004,Male,27,Vietnam,AC Hotel,4.3, 125 ,20%
+DDKH00034,1/2/2010,KH00004,Female,37,Cambodia,Adam Lake B&B,4.4, 173 ,13%
+DDSG00035,1/3/2010,SG00010,Male,25,Singapore,Zzz Motel,4.5, 151 ,18%
+DDID00036,1/3/2010,ID00004,Female,19,Indonesia,The Langham,3.8, 99 ,7%
+DDTH00037,1/3/2010,TH00005,Female,22,Thailand,Happy Times Hotel,4.6, 333 ,9%
+DDPH00038,1/3/2010,PH00002,Male,41,Philippines,Ebony Tropic Motel,4.5, 214 ,18%
+DDPH00039,1/3/2010,PH00003,Male,42,Philippines,Harbor Hotel,4.2, 244 ,16%
+DDSG00040,1/3/2010,SG00011,Female,20,Singapore,Acqualina Resort & Spa on the Beach,4.4, 97 ,12%
+DDVN00041,1/3/2010,VN00005,Female,23,Vietnam,Dreamland Guest Home,3.9, 116 ,14%
+DDID00042,1/3/2010,ID00005,Male,31,Indonesia,Park South Hotel,4.6, 428 ,11%
+DDID00043,1/3/2010,ID00006,Female,42,Indonesia,Palm Bliss,4.1, 132 ,23%
+DDKH00044,1/3/2010,KH00005,Male,35,Cambodia,The Harbor Hotel,4.1, 121 ,16%
+DDPH00045,1/3/2010,PH00004,Female,54,Philippines,Stewart Hotel New York,4.4, 251 ,24%
+DDVN00046,1/3/2010,VN00006,Male,22,Vietnam,Fun Palace Hotels,4.5, 136 ,22%
+DDPH00047,1/3/2010,PH00005,Male,46,Philippines,Fairytale B&B,4.1, 162 ,21%
+DDID00048,1/4/2010,ID00007,Male,34,Indonesia,Hotel Da Viva,4.6, 219 ,17%
+DDPH00049,1/4/2010,PH00006,Male,35,Philippines,Five Star B&B,4.2, 312 ,10%
+DDTH00050,1/4/2010,TH00006,Male,23,Thailand,Homefront B&B,4.6, 371 ,9%
+DDSG00051,1/4/2010,SG00012,Male,58,Singapore,Green Tortoise Hostel,4.2, 98 ,1%
+DDPH00052,1/4/2010,PH00007,Male,39,Philippines,Coast Hotels,4.2, 98 ,9%
+DDTH00053,1/4/2010,TH00007,Female,58,Thailand,Holiday Hotel,4.2, 430 ,18%
+DDSG00054,1/4/2010,SG00013,Female,52,Singapore,The River Front,3.7, 80 ,21%
+DDMY00055,1/4/2010,MY00010,Female,32,Malaysia,Shilo Inns Rose Garden,4.3, 243 ,14%
+DDID00056,1/5/2010,ID00008,Female,57,Indonesia,The Fresco Hotel,4.3, 115 ,12%
+DDMY00057,1/5/2010,MY00011,Male,43,Malaysia,Pod 51 Hotel,4.6, 183 ,3%
+DDID00058,1/5/2010,ID00009,Female,49,Indonesia,Motel Magic,4.6, 371 ,9%
+DDPH00059,1/5/2010,PH00008,Male,34,Philippines,Four Seasons Resort Lanai,4.1, 121 ,23%
+DDPH00060,1/5/2010,PH00009,Male,25,Philippines,Luxus Hotels,4.5, 253 ,4%
+DDMY00061,1/5/2010,MY00012,Male,38,Malaysia,Homewood Suites,4.3, 125 ,14%
+DDMY00062,1/5/2010,MY00013,Female,51,Malaysia,Cosmos Isle Motel,4.3, 243 ,0%
+DDSG00063,1/5/2010,SG00014,Male,37,Singapore,Sunrise Cave,4.6, 219 ,15%
+DDTH00064,1/5/2010,TH00008,Female,44,Thailand,Lexington,4.2, 430 ,18%
+DDMY00065,1/6/2010,MY00014,Male,58,Malaysia,Noble Avenue B&B,4.1, 121 ,2%
+DDID00066,1/6/2010,ID00010,Male,31,Indonesia,The Herbert Hotel,4.3, 145 ,20%
+DDMY00067,1/6/2010,MY00015,Male,41,Malaysia,Beacon Hill Guest House,4.2, 213 ,24%
+DDTH00068,1/6/2010,TH00009,Male,40,Thailand,Seascape,4.6, 291 ,13%
+DDPH00069,1/6/2010,PH00010,Female,51,Philippines,Blossomwell Resorts,3.8, 98 ,18%
+DDPH00070,1/6/2010,PH00011,Male,21,Philippines,Moonlight Motel,4.5, 136 ,19%
+DDMY00071,1/6/2010,MY00016,Female,29,Malaysia,Premier Travel Inn,4.1, 133 ,5%
+DDMY00072,1/6/2010,MY00017,Female,40,Malaysia,Paradise Motel,4.2, 430 ,11%
+DDSG00073,1/6/2010,SG00015,Male,53,Singapore,Four Seasons Hotel Gresham Palace,4.5, 136 ,10%
+DDSG00074,1/6/2010,SG00016,Male,54,Singapore,Big Dreams Hotel,4.6, 316 ,7%
+DDID00075,1/6/2010,ID00011,Female,34,Indonesia,The River Front,4.4, 173 ,9%
+DDMY00076,1/6/2010,MY00018,Male,26,Malaysia,Jade Bay Resort,4.6, 337 ,15%
+DDMY00077,1/6/2010,MY00019,Female,54,Malaysia,The Huntington Hotel,4.4, 223 ,4%
+DDID00078,1/6/2010,ID00012,Male,37,Indonesia,Relax Inn,4.5, 136 ,23%
+DDKH00079,1/6/2010,KH00006,Male,29,Cambodia,Thompson,4.3, 198 ,22%
+DDSG00080,1/7/2010,SG00017,Male,38,Singapore,Americana Hotel,4.4, 97 ,25%
+DDPH00081,1/7/2010,PH00012,Male,28,Philippines,The Gregory Hotel,4.4, 97 ,10%
+DDPH00082,1/7/2010,PH00013,Female,39,Philippines,The Harbor Hotel,4.6, 316 ,2%
+DDKH00083,1/7/2010,KH00007,Female,39,Cambodia,Comfort Inn,4.7, 309 ,22%
+DDSG00084,1/7/2010,SG00018,Male,24,Singapore,Blossomwell Resorts,4.6, 333 ,7%
+DDTH00085,1/7/2010,TH00010,Female,52,Thailand,Four Points,4.1, 133 ,19%
+DDTH00086,1/7/2010,TH00011,Female,19,Thailand,Jupiter Guests,4.4, 97 ,22%
+DDTH00087,1/7/2010,TH00012,Male,43,Thailand,Hotel Epik,4.6, 318 ,8%
+DDSG00088,1/7/2010,SG00019,Male,49,Singapore,Backyard B&B,3.8, 98 ,2%
+DDSG00089,1/7/2010,SG00020,Female,28,Singapore,Count on us,4.6, 313 ,4%
+DDSG00090,1/7/2010,SG00021,Male,22,Singapore,Hotel Agoura,4.1, 162 ,25%
+DDSG00091,1/7/2010,SG00022,Female,29,Singapore,Residence Inn by Marriott,3.8, 99 ,14%
+DDMY00092,1/7/2010,MY00020,Female,50,Malaysia,Quick Stop Hotel,4.2, 312 ,18%
+DDPH00093,1/7/2010,PH00014,Male,36,Philippines,The Maxwell,4.6, 291 ,3%
+DDID00094,1/7/2010,ID00013,Female,35,Indonesia,Americana Hotel,4.1, 121 ,9%
+DDMY00095,1/8/2010,MY00021,Male,43,Malaysia,Interstellar Motel,4.4, 241 ,8%
+DDTH00096,1/8/2010,TH00013,Female,46,Thailand,Roadside Motel,4.5, 136 ,1%
+DDMY00097,1/8/2010,MY00022,Female,20,Malaysia,Emerald Bay Inn,4.6, 162 ,10%
+DDMY00098,1/8/2010,MY00023,Female,20,Malaysia,Cosmopolitan Hotel,4.6, 417 ,17%
+DDTH00099,1/8/2010,TH00014,Female,57,Thailand,Town and Country,4.1, 162 ,12%
+DDKH00100,1/8/2010,KH00008,Female,55,Cambodia,The River Hotel,4.5, 214 ,19%
+DDID00101,1/8/2010,ID00014,Female,32,Indonesia,Millennium Knickerbocker Hotel,4.2, 146 ,13%
+DDTH00102,1/8/2010,TH00015,Female,26,Thailand,Palm Bliss,4.2, 154 ,5%
+DDVN00103,1/8/2010,VN00007,Female,36,Vietnam,Quick Stop Hotel,4.2, 154 ,12%
+DDID00104,1/8/2010,ID00015,Male,30,Indonesia,Expedition,4.1, 121 ,13%
+DDID00105,1/8/2010,ID00016,Male,53,Indonesia,The Blue Vivid,3.8, 98 ,13%
+DDID00106,1/8/2010,ID00017,Female,23,Indonesia,The Welcome Mat,4.3, 142 ,17%
+DDTH00107,1/8/2010,TH00016,Female,49,Thailand,The Oasis Motels,4.6, 371 ,23%
+DDID00108,1/9/2010,ID00018,Male,33,Indonesia,The Mosser Hotel,4.6, 303 ,13%
+DDPH00109,1/9/2010,PH00015,Male,31,Philippines,Royal Orbit,4.2, 420 ,16%
+DDTH00110,1/9/2010,TH00017,Female,25,Thailand,The Cozy Cottage,4.6, 291 ,8%
+DDSG00111,1/9/2010,SG00023,Male,49,Singapore,Pod 51 Hotel,4.3, 198 ,6%
+DDSG00112,1/9/2010,SG00024,Male,36,Singapore,Consulate Hotel,4.3, 125 ,16%
+DDMY00113,1/9/2010,MY00024,Female,48,Malaysia,The Sebastian Vail,4.5, 214 ,2%
+DDMY00114,1/9/2010,MY00025,Male,28,Malaysia,Blossomwell Resorts,4.5, 357 ,13%
+DDMY00115,1/9/2010,MY00026,Male,36,Malaysia,Hotel Lemonade,4.4, 173 ,21%
+DDTH00116,1/10/2010,TH00018,Male,49,Thailand,Heritage Inn,4.4, 213 ,13%
+DDVN00117,1/10/2010,VN00008,Female,34,Vietnam,Sea Side Den,3.8, 93 ,2%
+DDID00118,1/10/2010,ID00019,Male,29,Indonesia,Cape Grace,4.6, 333 ,12%
+DDID00119,1/10/2010,ID00020,Male,55,Indonesia,Dream Desert Hotel,4.4, 223 ,4%
+DDMY00120,1/10/2010,MY00027,Male,27,Malaysia,Slumber Inn,4.5, 357 ,16%
+DDVN00121,1/10/2010,VN00009,Male,41,Vietnam,Sandy Bloom,3.3, 88 ,19%
+DDSG00122,1/10/2010,SG00025,Male,38,Singapore,Aloft Chicago,4.2, 213 ,18%
+DDSG00123,1/10/2010,SG00026,Male,35,Singapore,Marriott,4.6, 313 ,23%
+DDKH00124,1/10/2010,KH00009,Female,58,Cambodia,Azure Expanse Hotel & Spa,4.6, 371 ,19%
+DDID00125,1/10/2010,ID00021,Male,57,Indonesia,Always Available,3.3, 88 ,16%
+DDSG00126,1/10/2010,SG00027,Female,31,Singapore,Hotel The Pie,4.5, 338 ,19%
+DDKH00127,1/10/2010,KH00010,Male,34,Cambodia,Serene Stay,3.8, 93 ,9%
+DDTH00128,1/10/2010,TH00019,Male,47,Thailand,Heritage Inn,4.2, 244 ,17%
+DDKH00129,1/10/2010,KH00011,Male,42,Cambodia,Aman Resorts,4.2, 213 ,21%
+DDSG00130,1/10/2010,SG00028,Female,34,Singapore,Inn Of Dreams,4.2, 244 ,23%
+DDTH00131,1/10/2010,TH00020,Male,27,Thailand,Hotel Mastic Marvell,4.4, 251 ,1%
+DDMY00132,1/11/2010,MY00028,Male,56,Malaysia,Feel At Home Team,4.2, 234 ,1%
+DDMY00133,1/11/2010,MY00029,Male,25,Malaysia,Island Resort,4.6, 371 ,13%
+DDTH00134,1/11/2010,TH00021,Female,56,Thailand,Secret Mirage,4.3, 162 ,23%
+DDTH00135,1/11/2010,TH00022,Male,56,Thailand,Comfort B&B,4.2, 254 ,12%
+DDKH00136,1/11/2010,KH00012,Female,52,Cambodia,Luxury Living,4.2, 146 ,19%
+DDID00137,1/11/2010,ID00022,Male,32,Indonesia,Reefs Resort & Club,4.2, 312 ,12%
+DDMY00138,1/11/2010,MY00030,Male,53,Malaysia,Ramada Hollywood,4.3, 155 ,0%
+DDSG00139,1/11/2010,SG00029,Male,40,Singapore,Paradise Point Resort,4.6, 219 ,4%
+DDMY00140,1/11/2010,MY00031,Male,35,Malaysia,Sun And Sand Hotel,4.6, 222 ,22%
+DDPH00141,1/11/2010,PH00016,Female,40,Philippines,Shooting Star Motel,4.2, 98 ,7%
+DDTH00142,1/11/2010,TH00023,Male,26,Thailand,Sapphire Shield Resort,4.6, 456 ,0%
+DDTH00143,1/11/2010,TH00024,Female,34,Thailand,Shady Oaks B&B,4.2, 154 ,13%
+DDPH00144,1/11/2010,PH00017,Male,32,Philippines,Aloft,4.2, 98 ,10%
+DDTH00145,1/11/2010,TH00025,Female,35,Thailand,The Palazzo Resort,4.2, 312 ,1%
+DDTH00146,1/11/2010,TH00026,Male,33,Thailand,Sizzling inn,4.3, 162 ,11%
+DDID00147,1/11/2010,ID00023,Male,20,Indonesia,Backyard B&B,4.6, 371 ,9%
+DDSG00148,1/12/2010,SG00030,Male,58,Singapore,Treebones Resort,4.5, 214 ,9%
+DDSG00149,1/12/2010,SG00031,Male,39,Singapore,Family Ties,4.1, 131 ,16%
+DDSG00150,1/12/2010,SG00032,Male,26,Singapore,The Oasis Motels,4.2, 146 ,22%
+DDPH00151,1/12/2010,PH00018,Male,40,Philippines,Paradise Point Resort,4.1, 133 ,15%
+DDTH00152,1/12/2010,TH00027,Female,31,Thailand,Millennium Times Square,4.1, 162 ,22%
+DDTH00153,1/12/2010,TH00028,Male,24,Thailand,Hotel Elite,4.5, 136 ,1%
+DDMY00154,1/13/2010,MY00032,Male,40,Malaysia,Jade Bay Resort,4.5, 338 ,17%
+DDVN00155,1/13/2010,VN00010,Female,58,Vietnam,Cute Mountains,4.2, 213 ,10%
+DDID00156,1/13/2010,ID00024,Male,22,Indonesia,The White Rock Hotel,4.2, 430 ,17%
+DDTH00157,1/13/2010,TH00029,Female,40,Thailand,Summer Haven,3.3, 88 ,14%
+DDSG00158,1/13/2010,SG00033,Male,34,Singapore,Fortune House Hotel,4.1, 133 ,24%
+DDKH00159,1/13/2010,KH00013,Female,20,Cambodia,El Dorado Hotels,3.8, 99 ,13%
+DDTH00160,1/13/2010,TH00030,Male,34,Thailand,Ace Hotel,4.1, 132 ,10%
+DDSG00161,1/13/2010,SG00034,Female,43,Singapore,The Nines,4.5, 253 ,16%
+DDTH00162,1/13/2010,TH00031,Female,32,Thailand,Big Dreams,4.6, 333 ,20%
+DDPH00163,1/13/2010,PH00019,Female,31,Philippines,Discount Motel,4.6, 291 ,24%
+DDKH00164,1/13/2010,KH00014,Female,43,Cambodia,Hotel Barry Love,4.2, 312 ,0%
+DDMY00165,1/13/2010,MY00033,Male,31,Malaysia,Always Available,4.2, 312 ,15%
+DDMY00166,1/14/2010,MY00034,Male,41,Malaysia,Happy Times Hotel,4.4, 213 ,4%
+DDKH00167,1/14/2010,KH00015,Female,51,Cambodia,Cosmos Isle Motel,4.5, 151 ,18%
+DDPH00168,1/14/2010,PH00020,Male,33,Philippines,Grand Heirloom Resort & Spa,4.6, 291 ,10%
+DDVN00169,1/14/2010,VN00011,Female,28,Vietnam,Red Velvet Hotel,4.1, 162 ,15%
+DDSG00170,1/14/2010,SG00035,Female,50,Singapore,Soft Plains,4.3, 155 ,0%
+DDTH00171,1/14/2010,TH00032,Male,23,Thailand,Four Seasons Resort,4.2, 98 ,12%
+DDPH00172,1/14/2010,PH00021,Male,58,Philippines,Luxury Living,4.6, 313 ,2%
+DDKH00173,1/14/2010,KH00016,Male,29,Cambodia,Beachfront Hotels,4.5, 338 ,17%
+DDTH00174,1/14/2010,TH00033,Female,22,Thailand,Fountainhead Reserve,4.6, 222 ,10%
+DDMY00175,1/14/2010,MY00035,Male,31,Malaysia,The Lowell,4.1, 132 ,19%
+DDTH00176,1/14/2010,TH00034,Female,45,Thailand,Queen’s Castle Hotel,3.8, 98 ,3%
+DDKH00177,1/14/2010,KH00017,Female,37,Cambodia,Sunny Canopy,4.3, 155 ,16%
+DDTH00178,1/14/2010,TH00035,Female,28,Thailand,The Maxwell,4.5, 338 ,21%
+DDSG00179,1/14/2010,SG00036,Female,55,Singapore,Kings Inn,4.2, 430 ,12%
+DDKH00180,1/14/2010,KH00018,Male,27,Cambodia,Rose Thicket Resort,4.2, 213 ,10%
+DDTH00181,1/14/2010,TH00036,Female,52,Thailand,Darling Bed And Breakfast,4.5, 253 ,14%
+DDSG00182,1/14/2010,SG00037,Male,36,Singapore,The White sands,4.2, 312 ,2%
+DDVN00183,1/14/2010,VN00012,Male,32,Vietnam,Cape Grace,4.6, 371 ,5%
+DDTH00184,1/15/2010,TH00037,Female,28,Thailand,Sunset Plains,4.3, 152 ,13%
+DDPH00185,1/15/2010,PH00022,Male,32,Philippines,Happy Home B&B,4.6, 303 ,0%
+DDVN00186,1/15/2010,VN00013,Male,41,Vietnam,Joy Hunch Inn,4.2, 234 ,19%
+DDID00187,1/15/2010,ID00025,Female,50,Indonesia,Welcome Stay,4.4, 173 ,5%
+DDSG00188,1/15/2010,SG00038,Female,19,Singapore,Hotel Fusion,4.2, 312 ,11%
+DDKH00189,1/15/2010,KH00019,Female,48,Cambodia,Secluded Hill,4.2, 312 ,11%
+DDKH00190,1/15/2010,KH00020,Male,38,Cambodia,Amuser Suites,4.4, 173 ,18%
+DDMY00191,1/15/2010,MY00036,Male,21,Malaysia,Lustrio Inn,4.5, 136 ,6%
+DDTH00192,1/15/2010,TH00038,Male,31,Thailand,Slumber Falls,4.3, 158 ,5%
+DDTH00193,1/15/2010,TH00039,Female,47,Thailand,Peninsula,3.8, 93 ,20%
+DDSG00194,1/15/2010,SG00039,Female,51,Singapore,Welcome Stay,4.6, 291 ,24%
+DDSG00195,1/15/2010,SG00040,Male,22,Singapore,Hotel Grizzly,4.4, 223 ,24%
+DDMY00196,1/15/2010,MY00037,Female,27,Malaysia,Signature San Francisco,4.5, 161 ,17%
+DDSG00197,1/15/2010,SG00041,Male,23,Singapore,Hotel Da Viva,4.5, 329 ,19%
+DDVN00198,1/15/2010,VN00014,Male,32,Vietnam,Breeze Blows Motel,4.1, 131 ,3%
+DDSG00199,1/15/2010,SG00042,Female,25,Singapore,Ace Hotel,4.4, 97 ,19%
+DDSG00200,1/16/2010,SG00043,Female,35,Singapore,South Shore Resort,4.3, 233 ,23%
+DDSG00201,1/16/2010,SG00044,Male,24,Singapore,Able Day Hotel,3.3, 78 ,23%
+DDID00202,1/16/2010,ID00026,Male,56,Indonesia,Wonder Hill Inn,4.3, 243 ,25%
+DDTH00203,1/16/2010,TH00040,Female,49,Thailand,Hotel Mastic Marvell,4.6, 222 ,18%
+DDMY00204,1/16/2010,MY00038,Male,53,Malaysia,Cabrillo Inn & Suites,4.3, 198 ,24%
+DDTH00205,1/16/2010,TH00041,Female,21,Thailand,Spotlight Motel,4.2, 98 ,3%
+DDID00206,1/16/2010,ID00027,Male,25,Indonesia,Pacifica Hotel,4.4, 223 ,7%
+DDPH00207,1/16/2010,PH00023,Female,48,Philippines,Sea Horizon,3.9, 116 ,22%
+DDID00208,1/16/2010,ID00028,Male,56,Indonesia,Belmond Hotel Splendido,4.3, 158 ,6%
+DDMY00209,1/16/2010,MY00039,Female,34,Malaysia,Hotel Joy Stick,4.4, 291 ,1%
+DDPH00210,1/16/2010,PH00024,Male,32,Philippines,Paramount Hotel,4.4, 291 ,19%
+DDMY00211,1/16/2010,MY00040,Male,21,Malaysia,Residence Inn,4.4, 291 ,10%
+DDSG00212,1/16/2010,SG00045,Male,45,Singapore,Blossomwell Resorts,4.4, 173 ,1%
+DDMY00213,1/16/2010,MY00041,Female,33,Malaysia,Rooftop Resort,4.5, 161 ,14%
+DDMY00214,1/16/2010,MY00042,Male,55,Malaysia,Primal Vista Motel,4.3, 162 ,23%
+DDSG00215,1/16/2010,SG00046,Female,49,Singapore,Ett Hem,4.1, 132 ,24%
+DDMY00216,1/16/2010,MY00043,Female,35,Malaysia,Orchard Harvest B&B,3.8, 93 ,21%
+DDKH00217,1/16/2010,KH00021,Male,37,Cambodia,Hotel Barry Love,4.4, 251 ,7%
+DDSG00218,1/17/2010,SG00047,Female,35,Singapore,Hilton Garden Inn,4.4, 163 ,3%
+DDTH00219,1/17/2010,TH00042,Male,55,Thailand,Grantham Inn,4.4, 97 ,15%
+DDMY00220,1/17/2010,MY00044,Male,46,Malaysia,The Worldly Traveler,4.1, 132 ,14%
+DDTH00221,1/17/2010,TH00043,Female,26,Thailand,Eagles Watch Resort,4.7, 309 ,1%
+DDTH00222,1/17/2010,TH00044,Female,44,Thailand,Utopia Inn,4.2, 154 ,15%
+DDMY00223,1/17/2010,MY00045,Female,45,Malaysia,Land’s End Resort,4.1, 133 ,16%
+DDID00224,1/17/2010,ID00029,Female,52,Indonesia,Coast Hotels,4.2, 430 ,7%
+DDMY00225,1/17/2010,MY00046,Female,53,Malaysia,Parker New York,4.6, 222 ,6%
+DDTH00226,1/17/2010,TH00045,Female,40,Thailand,Breeze Blows Motel,4.6, 371 ,14%
+DDKH00227,1/17/2010,KH00022,Female,23,Cambodia,Blossomwell Resort,4.4, 161 ,24%
+DDTH00228,1/17/2010,TH00046,Male,40,Thailand,The Sunshine Motel,4.1, 162 ,9%
+DDPH00229,1/17/2010,PH00025,Male,50,Philippines,Canopy,4.2, 213 ,2%
+DDTH00230,1/17/2010,TH00047,Female,50,Thailand,Little America Hotels,4.2, 430 ,23%
+DDSG00231,1/17/2010,SG00048,Male,44,Singapore,Four Seasons,4.6, 291 ,14%
+DDMY00232,1/17/2010,MY00047,Female,58,Malaysia,Hotel Agoura,4.1, 133 ,22%
+DDSG00233,1/17/2010,SG00049,Female,22,Singapore,The Harbor Hotel,4.6, 313 ,4%
+DDID00234,1/17/2010,ID00030,Male,50,Indonesia,Stewart Hotel New York,4.5, 136 ,24%
+DDMY00235,1/18/2010,MY00048,Female,22,Malaysia,Residence Inn,4.1, 121 ,23%
+DDID00236,1/18/2010,ID00031,Male,24,Indonesia,Reefs Resort & Club,4.7, 309 ,7%
+DDTH00237,1/18/2010,TH00048,Female,44,Thailand,Everland Wish,4.5, 329 ,18%
+DDKH00238,1/18/2010,KH00023,Male,52,Cambodia,Rancho Valencia Resort & Spa,4.3, 142 ,22%
+DDVN00239,1/18/2010,VN00015,Female,41,Vietnam,Eagles Watch Resort,4.2, 154 ,22%
+DDTH00240,1/18/2010,TH00049,Female,38,Thailand,Rise And Shine Bed And Breakfast,4.2, 254 ,6%
+DDTH00241,1/18/2010,TH00050,Male,19,Thailand,The Emperor’s Villa,3.9, 116 ,24%
+DDKH00242,1/18/2010,KH00024,Female,55,Cambodia,Jupiter Guests,4.5, 338 ,13%
+DDSG00243,1/18/2010,SG00050,Female,28,Singapore,Hotel Rose,4.1, 133 ,17%
+DDVN00244,1/18/2010,VN00016,Male,50,Vietnam,Comfort B&B,4.2, 312 ,20%
+DDMY00245,1/18/2010,MY00049,Male,49,Malaysia,SIXTY SoHo,4.2, 254 ,6%
+DDSG00246,1/18/2010,SG00051,Male,55,Singapore,Star of Africa B&B,4.2, 165 ,25%
+DDID00247,1/18/2010,ID00032,Female,55,Indonesia,Heritage Inn,4.4, 161 ,4%
+DDMY00248,1/18/2010,MY00050,Male,28,Malaysia,Happy Mornings Motel,4.2, 213 ,9%
+DDKH00249,1/18/2010,KH00025,Male,49,Cambodia,Blue Fantasy Inns,4.5, 253 ,6%
+DDMY00250,1/18/2010,MY00051,Male,25,Malaysia,Harbor Hotel,4.6, 219 ,25%
+DDID00251,1/19/2010,ID00033,Female,30,Indonesia,Hello Home,4.6, 313 ,5%
+DDVN00252,1/19/2010,VN00017,Male,24,Vietnam,Rodeway Inn,3.8, 93 ,2%
+DDSG00253,1/19/2010,SG00052,Female,32,Singapore,Voyage,4.3, 142 ,3%
+DDID00254,1/19/2010,ID00034,Female,53,Indonesia,Noble Avenue B&B,4.6, 371 ,2%
+DDSG00255,1/19/2010,SG00053,Male,47,Singapore,Hotel Tropicana,4.6, 313 ,5%
+DDSG00256,1/19/2010,SG00054,Female,33,Singapore,The Beekman,4.6, 371 ,20%
+DDKH00257,1/20/2010,KH00026,Female,33,Cambodia,Sonesta Suites,4.5, 243 ,3%
+DDKH00258,1/20/2010,KH00027,Male,47,Cambodia,Golden Gate B&B,4.3, 198 ,7%
+DDVN00259,1/20/2010,VN00018,Female,36,Vietnam,Radisson Hotel,4.1, 131 ,7%
+DDTH00260,1/20/2010,TH00051,Male,55,Thailand,Radisson Hotel,3.3, 88 ,12%
+DDMY00261,1/20/2010,MY00052,Female,25,Malaysia,The Standard High Line,4.6, 371 ,20%
+DDVN00262,1/20/2010,VN00019,Male,50,Vietnam,Fairytale B&B,4.4, 161 ,21%
+DDPH00263,1/20/2010,PH00026,Female,54,Philippines,Waldorf Astoria,4.3, 162 ,5%
+DDMY00264,1/20/2010,MY00053,Female,22,Malaysia,Crescent Resort,4.4, 251 ,19%
+DDSG00265,1/20/2010,SG00055,Male,36,Singapore,The Ivy Boutique Hotel,4.6, 333 ,12%
+DDPH00266,1/20/2010,PH00027,Female,30,Philippines,Voyage Resort,4.2, 98 ,4%
+DDMY00267,1/20/2010,MY00054,Female,19,Malaysia,The Earth Pure,4.3, 243 ,10%
+DDMY00268,1/20/2010,MY00055,Female,34,Malaysia,Hotel Volga,4.1, 132 ,24%
+DDID00269,1/20/2010,ID00035,Male,25,Indonesia,Wedgewood Resort,4.5, 253 ,1%
+DDKH00270,1/21/2010,KH00028,Male,34,Cambodia,Harbor Hotel,3.3, 78 ,21%
+DDPH00271,1/21/2010,PH00028,Male,28,Philippines,Brownstone Hotel,4.3, 188 ,16%
+DDID00272,1/21/2010,ID00036,Female,40,Indonesia,The Beekman,4.5, 338 ,22%
+DDTH00273,1/21/2010,TH00052,Male,30,Thailand,6-Star Food Service,4.4, 97 ,21%
+DDVN00274,1/21/2010,VN00020,Female,51,Vietnam,Grand & Epic,4.6, 459 ,11%
+DDID00275,1/21/2010,ID00037,Female,25,Indonesia,The Neighborhood B&B,4.4, 97 ,20%
+DDID00276,1/21/2010,ID00038,Male,23,Indonesia,Greentops Hotels,4.1, 162 ,19%
+DDMY00277,1/21/2010,MY00056,Female,22,Malaysia,Dreamy Desert Suites,3.8, 93 ,23%
+DDTH00278,1/21/2010,TH00053,Female,53,Thailand,Firefly,4.3, 198 ,23%
+DDPH00279,1/21/2010,PH00029,Male,24,Philippines,Noble Den Hotel,4.6, 222 ,2%
+DDMY00280,1/21/2010,MY00057,Male,34,Malaysia,Asaba,4.6, 291 ,9%
+DDVN00281,1/21/2010,VN00021,Female,26,Vietnam,The Pyramid Hotel,4.6, 316 ,7%
+DDTH00282,1/21/2010,TH00054,Male,32,Thailand,The Fresco Hotel,4.7, 309 ,22%
+DDMY00283,1/21/2010,MY00058,Male,31,Malaysia,Hotel Diva,4.3, 158 ,1%
+DDKH00284,1/21/2010,KH00029,Female,27,Cambodia,Hotel Happy springs,3.7, 80 ,21%
+DDVN00285,1/22/2010,VN00022,Female,26,Vietnam,Tranquil Acres,4.2, 234 ,16%
+DDSG00286,1/22/2010,SG00056,Male,22,Singapore,Inn of Chicago,4.4, 251 ,20%
+DDVN00287,1/22/2010,VN00023,Male,56,Vietnam,Wonder Hill Inn,4.6, 316 ,0%
+DDID00288,1/22/2010,ID00039,Female,55,Indonesia,Hotel Da Viva,4.3, 142 ,5%
+DDKH00289,1/22/2010,KH00030,Male,27,Cambodia,Sun And Sand Hotel,4.3, 155 ,2%
+DDTH00290,1/22/2010,TH00055,Female,32,Thailand,The Peninsula Beverly Hills,4.5, 357 ,4%
+DDMY00291,1/22/2010,MY00059,Male,25,Malaysia,Sunrise Thicket Hotel,4.2, 213 ,11%
+DDVN00292,1/22/2010,VN00024,Female,53,Vietnam,Brooklyn Hotel,3.8, 98 ,3%
+DDTH00293,1/22/2010,TH00056,Female,29,Thailand,Star of Africa B&B,4.6, 222 ,3%
+DDMY00294,1/22/2010,MY00060,Male,50,Malaysia,Green Lushy Resorts,4.1, 133 ,15%
+DDID00295,1/22/2010,ID00040,Male,49,Indonesia,Seacoast Hotel,4.6, 371 ,18%
+DDVN00296,1/22/2010,VN00025,Male,43,Vietnam,Villa Florence,4.5, 214 ,5%
+DDSG00297,1/23/2010,SG00057,Female,22,Singapore,Backyard B&B,4.5, 347 ,11%
+DDTH00298,1/23/2010,TH00057,Male,51,Thailand,Sea Sights Resorts,4.1, 152 ,22%
+DDTH00299,1/23/2010,TH00058,Female,36,Thailand,Small Town B&B,4.5, 214 ,6%
+DDSG00300,1/23/2010,SG00058,Female,34,Singapore,Wonder Cuzzi Motels,3.8, 99 ,24%
+DDTH00301,1/23/2010,TH00059,Female,39,Thailand,Opportunity Resort,4.4, 291 ,1%
+DDKH00302,1/23/2010,KH00031,Male,33,Cambodia,The Avenida Hotel,3.8, 93 ,10%
+DDPH00303,1/23/2010,PH00030,Female,49,Philippines,Comfort Inn,4.1, 133 ,13%
+DDTH00304,1/23/2010,TH00060,Male,30,Thailand,Grand Beach Hotel,3.8, 93 ,9%
+DDID00305,1/23/2010,ID00041,Female,50,Indonesia,Blossom Bed & Breakfast Like Home B&B,3.8, 93 ,12%
+DDKH00306,1/23/2010,KH00032,Female,36,Cambodia,Galactic Hotel,4.6, 291 ,12%
+DDID00307,1/23/2010,ID00042,Male,26,Indonesia,The Blackstone,4.6, 195 ,15%
+DDSG00308,1/23/2010,SG00059,Male,32,Singapore,The Lakefront,4.2, 165 ,15%
+DDPH00309,1/24/2010,PH00031,Female,43,Philippines,Beachwalk Resort,4.6, 313 ,20%
+DDMY00310,1/24/2010,MY00061,Male,34,Malaysia,The Goldberg Hotel,4.5, 214 ,3%
+DDTH00311,1/24/2010,TH00061,Female,50,Thailand,Azure Expanse Hotel & Spa,4.6, 313 ,21%
+DDSG00312,1/24/2010,SG00060,Male,32,Singapore,Hotel Diva,3.3, 88 ,6%
+DDTH00313,1/24/2010,TH00062,Female,56,Thailand,The Westin,4.6, 219 ,21%
+DDKH00314,1/24/2010,KH00033,Male,56,Cambodia,Moonlight,4.2, 430 ,17%
+DDMY00315,1/24/2010,MY00062,Female,49,Malaysia,Millennium Times Square,4.2, 254 ,5%
+DDTH00316,1/24/2010,TH00063,Female,49,Thailand,The Harbor Hotel,4.6, 313 ,17%
+DDPH00317,1/24/2010,PH00032,Male,55,Philippines,Southern Ocean Lodge,4.2, 213 ,18%
+DDMY00318,1/24/2010,MY00063,Female,46,Malaysia,Platinum Food team,4.2, 430 ,22%
+DDMY00319,1/24/2010,MY00064,Male,35,Malaysia,The Avenida Hotel,4.4, 291 ,10%
+DDSG00320,1/24/2010,SG00061,Female,29,Singapore,Blue Moon Hotel,4.4, 251 ,16%
+DDMY00321,1/24/2010,MY00065,Male,40,Malaysia,Queen’s Lion,3.8, 93 ,13%
+DDID00322,1/24/2010,ID00043,Male,28,Indonesia,The Lucky Rabbit B&B,4.6, 291 ,23%
+DDTH00323,1/25/2010,TH00064,Female,45,Thailand,Mofo Cuzzi Inn,4.1, 323 ,20%
+DDMY00324,1/25/2010,MY00066,Female,38,Malaysia,Sunset’s View,4.2, 430 ,19%
+DDMY00325,1/25/2010,MY00067,Female,48,Malaysia,The Lowell,3.3, 88 ,5%
+DDID00326,1/25/2010,ID00044,Female,57,Indonesia,Fountain Fun,4.5, 357 ,5%
+DDSG00327,1/25/2010,SG00062,Female,48,Singapore,Triple Creek Ranch,4.2, 146 ,13%
+DDID00328,1/25/2010,ID00045,Female,37,Indonesia,Heartland Inn,3.8, 93 ,8%
+DDVN00329,1/25/2010,VN00026,Male,56,Vietnam,Galaxy Motel,4.5, 329 ,20%
+DDID00330,1/25/2010,ID00046,Male,31,Indonesia,Hotel Vertigo,4.2, 312 ,12%
+DDTH00331,1/25/2010,TH00065,Female,46,Thailand,Four Seasons Hotel Gresham Palace,4.2, 98 ,4%
+DDVN00332,1/25/2010,VN00027,Female,38,Vietnam,The Gregory Hotel,4.1, 162 ,11%
+DDID00333,1/25/2010,ID00047,Male,26,Indonesia,Freehand,4.1, 132 ,18%
+DDKH00334,1/25/2010,KH00034,Female,26,Cambodia,Spring Brook,3.8, 98 ,15%
+DDVN00335,1/25/2010,VN00028,Female,22,Vietnam,Rose Thicket Resort,4.6, 222 ,11%
+DDID00336,1/26/2010,ID00048,Female,55,Indonesia,Jack Summer Inn,4.3, 132 ,9%
+DDMY00337,1/26/2010,MY00068,Female,46,Malaysia,Silversmith Hotel,4.1, 132 ,11%
+DDID00338,1/26/2010,ID00049,Female,19,Indonesia,Tiny Digs Hotel,4.2, 146 ,5%
+DDTH00339,1/26/2010,TH00066,Male,49,Thailand,Shade Tree B&B,4.5, 338 ,15%
+DDSG00340,1/26/2010,SG00063,Female,52,Singapore,Family Ties,4.4, 97 ,18%
+DDMY00341,1/26/2010,MY00069,Male,28,Malaysia,Bluewind Suites,4.3, 162 ,16%
+DDKH00342,1/26/2010,KH00035,Male,55,Cambodia,Opportunity Resort,4.4, 161 ,20%
+DDMY00343,1/26/2010,MY00070,Female,46,Malaysia,Walkabout Beach,4.4, 97 ,13%
+DDSG00344,1/26/2010,SG00064,Male,46,Singapore,Chestnut Tree Inn,4.5, 161 ,20%
+DDID00345,1/26/2010,ID00050,Male,30,Indonesia,Urbanica,3.7, 80 ,19%
+DDTH00346,1/26/2010,TH00067,Female,26,Thailand,Green Tortoise Hostel,4.4, 97 ,22%
+DDID00347,1/26/2010,ID00051,Female,49,Indonesia,Wentworth Mansion,4.1, 133 ,1%
+DDMY00348,1/26/2010,MY00071,Female,19,Malaysia,Breeze Blows Motel,4.6, 222 ,16%
+DDKH00349,1/26/2010,KH00036,Male,39,Cambodia,Crescent Resort,4.6, 313 ,13%
+DDKH00350,1/26/2010,KH00037,Male,52,Cambodia,Sapphires Hotel,4.7, 309 ,8%
+DDKH00351,1/26/2010,KH00038,Female,49,Cambodia,Chestnut Tree Inn,3.8, 98 ,21%
+DDTH00352,1/26/2010,TH00068,Male,38,Thailand,Denali Perch Resort,3.7, 80 ,8%
+DDMY00353,1/26/2010,MY00072,Male,42,Malaysia,Ramada Hollywood,3.9, 116 ,21%
+DDTH00354,1/26/2010,TH00069,Male,40,Thailand,Royal Villa Hotel,4.5, 161 ,23%
+DDSG00355,1/27/2010,SG00065,Male,28,Singapore,Wonder Cuzzi Motels,4.6, 371 ,16%
+DDSG00356,1/27/2010,SG00066,Male,57,Singapore,Premier Travel Inn,3.7, 80 ,18%
+DDVN00357,1/27/2010,VN00029,Male,45,Vietnam,Ballyfin,4.2, 254 ,16%
+DDTH00358,1/27/2010,TH00070,Female,44,Thailand,Happy Hotel,3.7, 80 ,8%
+DDMY00359,1/27/2010,MY00073,Male,33,Malaysia,Hotel Vitale,4.4, 291 ,2%
+DDMY00360,1/27/2010,MY00074,Female,19,Malaysia,The Sebastian Vail,4.4, 161 ,0%
+DDID00361,1/27/2010,ID00052,Female,29,Indonesia,Green Tortoise Hostel,4.4, 161 ,23%
+DDPH00362,1/27/2010,PH00033,Female,51,Philippines,Bonnie’s Balcony,4.3, 155 ,9%
+DDTH00363,1/27/2010,TH00071,Male,57,Thailand,Island Resort,4.7, 309 ,0%
+DDSG00364,1/27/2010,SG00067,Female,30,Singapore,Brownstone Hotel,4.4, 97 ,7%
+DDID00365,1/27/2010,ID00053,Female,34,Indonesia,The River Front,3.8, 93 ,13%
+DDPH00366,1/27/2010,PH00034,Male,19,Philippines,A To B&B,4.5, 338 ,23%
+DDSG00367,1/27/2010,SG00068,Female,38,Singapore,Queen’s Lion,4.5, 329 ,13%
+DDMY00368,1/27/2010,MY00075,Male,36,Malaysia,Freehand,3.8, 99 ,8%
+DDVN00369,1/27/2010,VN00030,Male,29,Vietnam,Woodlark,4.6, 371 ,12%
+DDSG00370,1/27/2010,SG00069,Female,43,Singapore,White Dove Hotels,4.1, 131 ,20%
+DDTH00371,1/27/2010,TH00072,Male,29,Thailand,The Venetian,4.5, 338 ,13%
+DDID00372,1/28/2010,ID00054,Female,49,Indonesia,Four Seasons Hotel,4.1, 131 ,16%
+DDSG00373,1/28/2010,SG00070,Female,39,Singapore,Hotel Agoura,4.6, 106 ,13%
+DDID00374,1/28/2010,ID00055,Male,55,Indonesia,The Watson Hotel,4.7, 309 ,22%
+DDKH00375,1/28/2010,KH00039,Female,38,Cambodia,Jade Bay Resort,4.7, 309 ,4%
+DDMY00376,1/28/2010,MY00076,Male,46,Malaysia,Entrada Resort,4.5, 357 ,25%
+DDMY00377,1/28/2010,MY00077,Female,45,Malaysia,Hardywood Hotel,4.6, 222 ,14%
+DDTH00378,1/28/2010,TH00073,Female,44,Thailand,The Quest Suites,4.3, 125 ,18%
+DDKH00379,1/28/2010,KH00040,Female,53,Cambodia,Sunny Canopy,4.6, 333 ,1%
+DDVN00380,1/28/2010,VN00031,Female,39,Vietnam,St Regis Hotels,4.5, 357 ,6%
+DDPH00381,1/28/2010,PH00035,Female,34,Philippines,Dreamland Guest Home,4.1, 162 ,13%
+DDSG00382,1/28/2010,SG00071,Female,21,Singapore,Quality Hotels,4.4, 251 ,3%
+DDVN00383,1/28/2010,VN00032,Female,35,Vietnam,Fairytale B&B,4.4, 161 ,11%
+DDSG00384,1/28/2010,SG00072,Female,42,Singapore,Alaska’s Island Resort,4.6, 470 ,13%
+DDTH00385,1/28/2010,TH00074,Male,19,Thailand,Stepping Stone B&B,4.5, 329 ,2%
+DDPH00386,1/28/2010,PH00036,Female,58,Philippines,A To B&B,4.6, 219 ,23%
+DDSG00387,1/28/2010,SG00073,Female,53,Singapore,Hotel Fusion,4.5, 161 ,15%
+DDTH00388,1/28/2010,TH00075,Female,42,Thailand,Galactic Hotel,4.5, 214 ,22%
+DDTH00389,1/28/2010,TH00076,Male,54,Thailand,Parallel Shrine,4.6, 291 ,25%
+DDSG00390,1/29/2010,SG00074,Male,43,Singapore,Yotel New York,4.2, 420 ,21%
+DDSG00391,1/29/2010,SG00075,Female,34,Singapore,The Better Inn,4.6, 212 ,22%
+DDPH00392,1/29/2010,PH00037,Male,21,Philippines,Spring Brook,4.1, 162 ,9%
+DDPH00393,1/29/2010,PH00038,Male,24,Philippines,Hotel The Pie,4.5, 338 ,3%
+DDPH00394,1/29/2010,PH00039,Female,37,Philippines,Goldencrest Motel,4.5, 253 ,8%
+DDSG00395,1/29/2010,SG00076,Female,46,Singapore,Entrada Resort,4.3, 158 ,10%
+DDTH00396,1/29/2010,TH00077,Female,49,Thailand,Crescent Resort,3.7, 80 ,24%
+DDMY00397,1/29/2010,MY00078,Male,58,Malaysia,El Dorado Hotels,4.6, 371 ,17%
+DDTH00398,1/29/2010,TH00078,Female,48,Thailand,Pacific Inn Hotel & Suites,4.6, 316 ,4%
+DDTH00399,1/29/2010,TH00079,Male,56,Thailand,Odysse Suites,4.4, 161 ,13%
+DDID00400,1/29/2010,ID00056,Female,45,Indonesia,Hotel Crossroads,4.4, 251 ,23%
+DDSG00401,1/29/2010,SG00077,Male,49,Singapore,Villa Florence,4.4, 291 ,8%
+DDID00402,1/29/2010,ID00057,Female,53,Indonesia,The Park Central,3.8, 98 ,12%
+DDKH00403,1/30/2010,KH00041,Male,33,Cambodia,The Herbert Hotel,4.6, 209 ,6%
+DDID00404,1/30/2010,ID00058,Male,27,Indonesia,The Upper House,4.3, 145 ,20%
+DDSG00405,1/30/2010,SG00078,Female,44,Singapore,Embassy Suites,4.6, 291 ,12%
+DDTH00406,1/30/2010,TH00080,Male,54,Thailand,ARIA Resort,3.8, 98 ,5%
+DDTH00407,1/30/2010,TH00081,Female,19,Thailand,Croosroads,4.5, 136 ,9%
+DDSG00408,1/30/2010,SG00079,Male,53,Singapore,Blissdom Motels,4.5, 329 ,21%
+DDID00409,1/30/2010,ID00059,Female,51,Indonesia,The Paradise Inn,4.6, 316 ,3%
+DDTH00410,1/30/2010,TH00082,Male,20,Thailand,The Hay-Adams,3.9, 116 ,11%
+DDKH00411,1/30/2010,KH00042,Female,46,Cambodia,Sea Horizon,4.4, 223 ,21%
+DDSG00412,1/30/2010,SG00080,Male,49,Singapore,Joy Hunch Inn,4.5, 357 ,5%
+DDTH00413,1/30/2010,TH00083,Female,53,Thailand,West Isle Hotels,4.4, 161 ,15%
+DDSG00414,1/30/2010,SG00081,Male,28,Singapore,Zion Hotel,4.3, 162 ,16%
+DDTH00415,1/30/2010,TH00084,Female,49,Thailand,Southern Hospitality,4.1, 162 ,16%
+DDTH00416,1/30/2010,TH00085,Female,34,Thailand,On The Road,4.5, 136 ,17%
+DDPH00417,1/30/2010,PH00040,Male,46,Philippines,Rancho Valencia Resort & Spa,4.7, 309 ,20%
+DDTH00418,1/30/2010,TH00086,Male,39,Thailand,The Goldberg Hotel,4.3, 162 ,3%
+DDID00419,1/31/2010,ID00060,Female,24,Indonesia,White Dove Hotels,4.3, 158 ,10%
+DDSG00420,1/31/2010,SG00082,Male,23,Singapore,Cabrillo Inn & Suites,4.2, 146 ,4%
+DDTH00421,1/31/2010,TH00087,Male,19,Thailand,The Goldberg Hotel,4.6, 219 ,25%
+DDID00422,1/31/2010,ID00061,Male,52,Indonesia,Helping Hands B&B,4.3, 158 ,11%
+DDSG00423,1/31/2010,SG00083,Female,27,Singapore,Kimpton EPIC Hotel,4.2, 430 ,22%
+DDSG00424,1/31/2010,SG00084,Male,36,Singapore,The River Hotel,4.6, 371 ,22%
+DDSG00425,1/31/2010,SG00085,Male,42,Singapore,AC Hotel,4.6, 316 ,25%
+DDID00426,1/31/2010,ID00062,Male,53,Indonesia,Brownstone Hotel,4.3, 155 ,12%
+DDVN00427,1/31/2010,VN00033,Male,54,Vietnam,Happy Hotel,4.6, 202 ,20%
+DDID00428,1/31/2010,ID00063,Male,31,Indonesia,Moss View,3.8, 93 ,25%
+DDMY00429,1/31/2010,MY00079,Female,48,Malaysia,Lexington,4.2, 244 ,22%
+DDID00430,2/1/2010,ID00064,Male,50,Indonesia,Wedgewood Resort,4.2, 302 ,20%
+DDKH00431,2/1/2010,KH00043,Male,33,Cambodia,Comfort B&B,4.6, 291 ,13%
+DDPH00432,2/1/2010,PH00041,Male,19,Philippines,Malibu Motel,4.1, 162 ,4%
+DDSG00433,2/1/2010,SG00086,Female,56,Singapore,Haven Royale Motels,4.5, 338 ,23%
+DDSG00434,2/1/2010,SG00087,Female,46,Singapore,Goldencrest Motel,4.5, 338 ,11%
+DDTH00435,2/1/2010,TH00088,Female,55,Thailand,The Sebastian Hotel,4.3, 198 ,24%
+DDSG00436,2/1/2010,SG00088,Female,49,Singapore,Majestic Hotel,4.6, 313 ,11%
+DDPH00437,2/1/2010,PH00042,Female,33,Philippines,Westcoast Motels,4.1, 133 ,0%
+DDMY00438,2/1/2010,MY00080,Male,53,Malaysia,Hollywood Sands,4.5, 136 ,15%
+DDMY00439,2/1/2010,MY00081,Male,48,Malaysia,Isle Royale,4.2, 165 ,24%
+DDVN00440,2/1/2010,VN00034,Female,47,Vietnam,Four Seasons,4.2, 430 ,18%
+DDVN00441,2/1/2010,VN00035,Female,41,Vietnam,The Watson Hotel,4.4, 161 ,23%
+DDTH00442,2/1/2010,TH00089,Male,43,Thailand,A To B&B,4.5, 214 ,20%
+DDMY00443,2/1/2010,MY00082,Female,57,Malaysia,Shooting Star Motel,4.4, 291 ,1%
+DDPH00444,2/1/2010,PH00043,Female,19,Philippines,Hotel deLuxe,4.5, 136 ,16%
+DDKH00445,2/1/2010,KH00044,Male,45,Cambodia,Shilo Inns Rose Garden,3.9, 116 ,23%
+DDPH00446,2/2/2010,PH00044,Male,51,Philippines,Little America Hotels,4.2, 244 ,20%
+DDID00447,2/2/2010,ID00065,Female,25,Indonesia,The Scarlet House Inn,4.6, 371 ,24%
+DDMY00448,2/2/2010,MY00083,Male,48,Malaysia,Home Away From Home,4.4, 173 ,10%
+DDID00449,2/2/2010,ID00066,Male,43,Indonesia,Minimal Vacancy,4.1, 131 ,13%
+DDTH00450,2/2/2010,TH00090,Female,23,Thailand,Starlight Motel,4.3, 158 ,15%
+DDID00451,2/2/2010,ID00067,Male,49,Indonesia,Zzz Motel,4.4, 173 ,23%
+DDTH00452,2/2/2010,TH00091,Female,49,Thailand,Sapphires Hotel,4.2, 154 ,6%
+DDID00453,2/2/2010,ID00068,Female,48,Indonesia,Moss View,4.1, 132 ,1%
+DDID00454,2/2/2010,ID00069,Male,48,Indonesia,Helping Hands B&B,4.3, 158 ,4%
+DDSG00455,2/2/2010,SG00089,Female,32,Singapore,Happy Stay Hotel,4.1, 131 ,2%
+DDTH00456,2/2/2010,TH00092,Female,42,Thailand,The Beekman,4.6, 222 ,13%
+DDPH00457,2/2/2010,PH00045,Male,25,Philippines,Opportunity Resort,3.3, 88 ,11%
+DDTH00458,2/2/2010,TH00093,Female,22,Thailand,Guild Downtown,4.4, 251 ,15%
+DDVN00459,2/2/2010,VN00036,Female,56,Vietnam,Montage Kapalua Bay,4.6, 219 ,15%
+DDTH00460,2/2/2010,TH00094,Male,44,Thailand,Cape Grace,4.4, 173 ,2%
+DDTH00461,2/3/2010,TH00095,Male,33,Thailand,The Downton,4.4, 213 ,13%
+DDTH00462,2/3/2010,TH00096,Male,27,Thailand,The Emperor’s Villa,4.4, 151 ,11%
+DDMY00463,2/3/2010,MY00084,Female,58,Malaysia,Hello Hotel,4.2, 430 ,16%
+DDSG00464,2/3/2010,SG00090,Male,25,Singapore,Hotel Tropicana,4.5, 338 ,4%
+DDMY00465,2/3/2010,MY00085,Female,30,Malaysia,Galaxy,4.3, 125 ,9%
+DDMY00466,2/3/2010,MY00086,Female,22,Malaysia,The Corner Motel,4.4, 291 ,6%
+DDSG00467,2/3/2010,SG00091,Male,28,Singapore,Scarlet Bliss Hotels,4.6, 291 ,8%
+DDSG00468,2/3/2010,SG00092,Female,27,Singapore,Galaxy,4.5, 214 ,7%
+DDTH00469,2/3/2010,TH00097,Male,21,Thailand,Hotel Elite,4.6, 219 ,10%
+DDSG00470,2/3/2010,SG00093,Male,49,Singapore,Beachwalk Resort,3.7, 80 ,13%
+DDID00471,2/3/2010,ID00070,Female,33,Indonesia,Motel On Main,3.8, 99 ,19%
+DDSG00472,2/3/2010,SG00094,Male,34,Singapore,La Parisienne,4.6, 431 ,13%
+DDVN00473,2/4/2010,VN00037,Female,28,Vietnam,Main Street Motel,4.2, 234 ,2%
+DDTH00474,2/4/2010,TH00098,Male,27,Thailand,Jade Mountain,4.6, 306 ,4%
+DDMY00475,2/4/2010,MY00087,Male,49,Malaysia,Belmond,4.6, 371 ,24%
+DDSG00476,2/4/2010,SG00095,Male,57,Singapore,Hilltop Heaven Resort,4.2, 254 ,20%
+DDKH00477,2/4/2010,KH00045,Female,50,Cambodia,The Westin,4.5, 253 ,24%
+DDID00478,2/4/2010,ID00071,Female,30,Indonesia,HomeTown Partners,3.8, 98 ,22%
+DDTH00479,2/4/2010,TH00099,Male,25,Thailand,Rooftop Resort,4.4, 223 ,20%
+DDMY00480,2/4/2010,MY00088,Female,31,Malaysia,Quality Suites,4.6, 333 ,21%
+DDSG00481,2/5/2010,SG00096,Female,31,Singapore,Shady Oaks B&B,4.1, 123 ,18%
+DDTH00482,2/5/2010,TH00100,Female,49,Thailand,Isle Royale,4.2, 144 ,17%
+DDMY00483,2/5/2010,MY00089,Male,31,Malaysia,Starlight,4.2, 430 ,3%
+DDMY00484,2/5/2010,MY00090,Male,58,Malaysia,The Resting Place,4.5, 214 ,24%
+DDSG00485,2/5/2010,SG00097,Female,57,Singapore,Redstone,4.6, 222 ,10%
+DDKH00486,2/5/2010,KH00046,Male,38,Cambodia,Hotel Elite,4.6, 333 ,16%
+DDID00487,2/5/2010,ID00072,Female,38,Indonesia,Sizzling inn,3.8, 99 ,2%
+DDPH00488,2/5/2010,PH00046,Female,21,Philippines,Juniper Log Inn,4.5, 136 ,0%
+DDID00489,2/5/2010,ID00073,Female,57,Indonesia,Knights Inn,4.4, 291 ,2%
+DDMY00490,2/5/2010,MY00091,Female,23,Malaysia,The Palazzo,4.4, 223 ,1%
+DDTH00491,2/5/2010,TH00101,Female,56,Thailand,A Touch of Heaven Hotel,4.6, 333 ,2%
+DDKH00492,2/5/2010,KH00047,Male,51,Cambodia,Noble Dune,3.8, 98 ,0%
+DDID00493,2/5/2010,ID00074,Female,49,Indonesia,Alaska’s Island Resort,4.6, 313 ,16%
+DDTH00494,2/6/2010,TH00102,Female,53,Thailand,West Isle Hotels,4.6, 333 ,9%
+DDPH00495,2/6/2010,PH00047,Male,33,Philippines,The Mc Star Isle,4.2, 146 ,10%
+DDVN00496,2/6/2010,VN00038,Male,21,Vietnam,Coastline Bay Hotel,4.1, 121 ,2%
+DDSG00497,2/6/2010,SG00098,Female,36,Singapore,The Gwen,3.9, 116 ,1%
+DDMY00498,2/6/2010,MY00092,Male,29,Malaysia,Ritz-Carlton Hotel,3.3, 88 ,11%
+DDSG00499,2/6/2010,SG00099,Male,33,Singapore,Beacon Hill Guest House,3.8, 99 ,21%
+DDTH00500,2/6/2010,TH00103,Male,33,Thailand,The Mosser Hotel,4.3, 243 ,14%
